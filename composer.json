@@ -17,6 +17,7 @@
             "email": "lord77xgui@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php" : ">=7.2.0"
     }
